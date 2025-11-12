@@ -139,10 +139,10 @@ Scan the QR code with **Expo Go** (Android/iOS app).
 
 ## 👨‍💻 Contributors  
 
-| Name | Role |
-|------|------|
-| **Aryan Mehta** | Mobile App Development (React Native) |
-| **Ajitesh Shukla** | Backend & AI Integration (FastAPI + YOLOv8) |
+| Name |
+|------|
+| **Aryan Mehta** |
+| **Ajitesh Shukla** |
 
 ---
 
