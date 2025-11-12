@@ -1,0 +1,31 @@
+# ===== MOBILE APP =====
+mobile/node_modules/
+mobile/.expo/
+mobile/.expo-shared/
+mobile/android/
+mobile/ios/
+mobile/web-build/
+mobile/dist/
+
+# ===== BACKEND =====
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+*.pyc
+
+# ===== LOGS =====
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ===== SYSTEM FILES =====
+.DS_Store
+Thumbs.db
+
+# ===== EDITOR / IDE =====
+.vscode/
+.idea/
+.env

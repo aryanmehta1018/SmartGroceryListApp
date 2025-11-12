@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+Pillow
+numpy
+uvicorn
+aiofiles
+opencv-python-headless
+ultralytics
+torch>=1.13.0
